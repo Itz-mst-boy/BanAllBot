@@ -4,24 +4,24 @@ https://t.me/itz_mst_boy
 
 
 <h4 align="center">
-    A Telegram Group Distructive Bot written in Python using Program With Much Features And Maintained Regularly
+    ᴀ  ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴅɪsᴛʀᴜᴄᴛɪᴠᴇ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʀᴏɢʀᴀᴍ  ᴡɪᴛʜ ᴍᴜᴄʜ ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʀᴇɢᴜʟᴀʀʟʏ
 </h4>
 
 <p>
 
-<a href="https://t.me/itz_mst_boy"> Noob Creator </a>     
-    <a href="https://t.me/mr_sukkun"> Support Channel </a> •
-    <a href="https://t.me/worldwide_friend_zone"> Support Chat </a> 
+<a href="https://t.me/itz_mst_boy"> ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ </a>     
+    <a href="https://t.me/mr_sukkun"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
+    <a href="https://t.me/worldwide_friend_zone"> sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ  </a> 
  </p>
 
 
-## Deploy
+## ᴅᴇᴘʟᴏʏ
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/BanAllBot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/BanAllBot)
 
-### Code Creator
+### ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ 
 
 ```
-BlazeOp
+[ᴏᴡɴᴇʀ](https://t.me/itz_mst_boy)
 ```
