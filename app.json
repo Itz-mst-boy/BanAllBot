@@ -20,6 +20,7 @@
     "LOG_ID": {
       "description": "The group id get it from @groupcontrollertgbot.",
       "value": ""
+}
     },
   "buildpacks": [
     {
