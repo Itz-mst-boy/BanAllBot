@@ -16,10 +16,6 @@
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
-    },
-    "LOG_ID": {
-      "description": "The group id get it from @groupcontrollertgbot.",
-      "value": ""
 }
     },
   "buildpacks": [
