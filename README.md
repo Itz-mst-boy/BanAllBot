@@ -21,5 +21,4 @@
 
 ### ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ 
 
-```[ᴏᴡɴᴇʀ](https://t.me/itz_mst_boy)
-```
+[ᴏᴡɴᴇʀ](https://t.me/itz_mst_boy)
