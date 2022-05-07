@@ -42,7 +42,7 @@ def start(_, msg: Message):
                                                        ], 
                                                        [
                                                         InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/moi_bot_lists"), 
-                                                        InlineKeyboardButton("ᴄʀᴇᴀᴛᴏʀ", url="https://t.me/itz_mst_boy")                                      
+                                                        InlineKeyboardButton("ɴᴏᴏʙ", url="https://t.me/itz_mst_boy")                                      
                                                        ], 
                                                        [
                                                         InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/{OWN_UNAME}")                                                                                              
