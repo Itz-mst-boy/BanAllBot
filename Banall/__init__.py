@@ -4,9 +4,9 @@ import logging
 import os
 
 
-STARTED = 'Black Magic Begins...'
-FINISH = 'done, {} users were removed from group'
-ERROR = 'something Went Wrong Please Try Again.\n\n**{}** !'
+STARTED = 'ʙʟᴀᴄᴋ ᴍᴀɢɪᴄ ʙᴇɢɪɴs  ʙʏ @itz_mst_boy...'
+FINISH = 'ᴅᴏɴᴇ, {} ᴜsᴇʀs  ᴡᴇʀᴇ  ʀᴇᴍᴏᴠᴇᴅ  ғʀᴏᴍ  ɢʀᴏᴜᴘ'
+ERROR = 'sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ  ᴡʀᴏɴɢ  ᴘʟᴇᴀsᴇ ᴛʀʏ ᴀɢᴀɪɴ ᴏʀ ᴇʟsᴇ ʀᴇᴘᴏʀᴛ ᴀᴛ @worldwide_friend_zone.\n\n**{}** !'
 
 
 class Config:
