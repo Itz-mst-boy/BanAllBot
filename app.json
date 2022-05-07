@@ -1,5 +1,7 @@
 {
   "name": "BanAllBot",
+  "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ  ᴛᴏ ʙᴀɴᴀʟʟ ᴜsᴇʀ ғʀᴏᴍ  ɢʀᴏᴜᴘ",
+  "logo": "https://telegra.ph/file/3794971472562ae7c775b.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
