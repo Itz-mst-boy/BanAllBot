@@ -10,7 +10,6 @@
 
 <a href="https://t.me/itz_mst_boy"> ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ </a>     
     <a href="https://t.me/mr_sukkun"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-
     <a href="https://t.me/worldwide_friend_zone"> sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ  </a> 
  </p>
 
@@ -22,6 +21,5 @@
 
 ### ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ 
 
-```
-[ᴏᴡɴᴇʀ](https://t.me/itz_mst_boy)
+```[ᴏᴡɴᴇʀ](https://t.me/itz_mst_boy)
 ```
