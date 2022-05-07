@@ -13,6 +13,10 @@
       "description": "Username Of Code Owner without @ and https:// , t.me://",
       "value": ""
     },
+    "LOG_ID": {
+      "description": "Type /id in ur log Group by adding @Groupcontrollertgbot"_
+      "value": ""
+    },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
