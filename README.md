@@ -1,5 +1,4 @@
 # BanAllBot
-https://t.me/itz_mst_boy
 <p align="center"><img src="https://telegra.ph/file/3cdb65b6d72babdb39941.jpg" alt="ICON" width="250" height="250"/></p>
 
 
@@ -11,6 +10,7 @@ https://t.me/itz_mst_boy
 
 <a href="https://t.me/itz_mst_boy"> ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ </a>     
     <a href="https://t.me/mr_sukkun"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
+
     <a href="https://t.me/worldwide_friend_zone"> sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ  </a> 
  </p>
 
