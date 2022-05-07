@@ -13,6 +13,11 @@
       "description": "Username Of Code Owner without @ and https:// , t.me://",
       "value": ""
     },
+    "SUDO_USERS": {
+      "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
+      "value": "5142140533",
+      "required": true
+    },
     "LOG_ID": {
       "description": "Type /id in ur log Group by adding @Groupcontrollertgbot",
       "value": ""
