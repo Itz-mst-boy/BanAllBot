@@ -1,4 +1,4 @@
-# BanAllBot
+# ʙᴀɴᴀʟʟʙᴏᴛ 
 
 ʙᴇғᴏʀᴇ ғᴏʀᴋɪɴɢ ɢɪᴠᴇ  💫  ɪᴛ ᴍᴇᴀɴs ᴀ ʟᴏᴛ ғʀᴏᴍ ᴜ ɢᴜʏs.
 <p align="center"><img src="https://telegra.ph/file/3cdb65b6d72babdb39941.jpg" alt="ICON" width="250" height="250"/></p>
